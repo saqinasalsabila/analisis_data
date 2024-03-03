@@ -12,10 +12,11 @@ This application is built using various technologies, including:
 ## Getting Started
 # Install Streamlit
 
-`pip install streamlit`
+```pip install streamlit```
 
 # Run Streamlit App
-`streamlit run dashboard.py`
+```streamlit run dashboard.py```
+
 You can download this file [here](https://github.com/saqinasalsabila/analisis_data/blob/main/dashboard.py)
 
 
