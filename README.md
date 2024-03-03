@@ -10,7 +10,8 @@ This application is built using various technologies, including:
 - Altair
 
 ## Getting Started
-#Install Streamlit
+# Install Streamlit
+
 `pip install streamlit`
 
 # Run Streamlit App
